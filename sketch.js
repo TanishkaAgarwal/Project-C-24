@@ -34,7 +34,7 @@ function setup() {
 
   var rock_options = {
    // write a code to set value of restitution such that:
-     restitution:1
+     restitution:0
    // Rock (Red Circle) bounces less when it hits the bottom.
   }
    
